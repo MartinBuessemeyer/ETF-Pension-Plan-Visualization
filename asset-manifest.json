@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3fe10b9.chunk.css",
-    "main.js": "/static/js/main.9919df52.chunk.js",
-    "main.js.map": "/static/js/main.9919df52.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a8da7118.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a8da7118.js.map",
-    "static/js/2.cb8edf0b.chunk.js": "/static/js/2.cb8edf0b.chunk.js",
-    "static/js/2.cb8edf0b.chunk.js.map": "/static/js/2.cb8edf0b.chunk.js.map",
-    "static/js/3.147dc6ce.chunk.js": "/static/js/3.147dc6ce.chunk.js",
-    "static/js/3.147dc6ce.chunk.js.map": "/static/js/3.147dc6ce.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a3fe10b9.chunk.css.map": "/static/css/main.a3fe10b9.chunk.css.map",
-    "static/js/2.cb8edf0b.chunk.js.LICENSE.txt": "/static/js/2.cb8edf0b.chunk.js.LICENSE.txt"
+    "main.css": "/ETF-Pension-Plan-Visualization/static/css/main.a3fe10b9.chunk.css",
+    "main.js": "/ETF-Pension-Plan-Visualization/static/js/main.b4d1a8e4.chunk.js",
+    "main.js.map": "/ETF-Pension-Plan-Visualization/static/js/main.b4d1a8e4.chunk.js.map",
+    "runtime-main.js": "/ETF-Pension-Plan-Visualization/static/js/runtime-main.659ec948.js",
+    "runtime-main.js.map": "/ETF-Pension-Plan-Visualization/static/js/runtime-main.659ec948.js.map",
+    "static/js/2.760d5f16.chunk.js": "/ETF-Pension-Plan-Visualization/static/js/2.760d5f16.chunk.js",
+    "static/js/2.760d5f16.chunk.js.map": "/ETF-Pension-Plan-Visualization/static/js/2.760d5f16.chunk.js.map",
+    "static/js/3.a01db6f1.chunk.js": "/ETF-Pension-Plan-Visualization/static/js/3.a01db6f1.chunk.js",
+    "static/js/3.a01db6f1.chunk.js.map": "/ETF-Pension-Plan-Visualization/static/js/3.a01db6f1.chunk.js.map",
+    "index.html": "/ETF-Pension-Plan-Visualization/index.html",
+    "static/css/main.a3fe10b9.chunk.css.map": "/ETF-Pension-Plan-Visualization/static/css/main.a3fe10b9.chunk.css.map",
+    "static/js/2.760d5f16.chunk.js.LICENSE.txt": "/ETF-Pension-Plan-Visualization/static/js/2.760d5f16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8da7118.js",
-    "static/js/2.cb8edf0b.chunk.js",
+    "static/js/runtime-main.659ec948.js",
+    "static/js/2.760d5f16.chunk.js",
     "static/css/main.a3fe10b9.chunk.css",
-    "static/js/main.9919df52.chunk.js"
+    "static/js/main.b4d1a8e4.chunk.js"
   ]
 }
